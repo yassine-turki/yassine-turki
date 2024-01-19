@@ -4,6 +4,8 @@ I am a final year bachelor student at Ecole Polytechnique Paris, double majoring
 Feel free to connect if you would like to share ideas!
 
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-turki-9343b3232/)
+- 🎓 Google Scholar Profile: [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=RHNXxw0AAAAJ&hl=fr&oi=sra)
+
 
 ### Languages and Tools :
 

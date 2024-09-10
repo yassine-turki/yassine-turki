@@ -1,6 +1,6 @@
 ### Welcome to Yassine Turki's github 👋
 
-I am a final year bachelor student at Ecole Polytechnique Paris, double majoring in Mathematics and Computer Science. I am passionate about Data Science, Machine Learning and Mathematics.
+I am a Data Science Master's student at EPFL in Lausanne. I am passionate about Data Science, Machine Learning and Mathematics.
 Feel free to connect if you would like to share ideas!
 
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-turki-9343b3232/)
